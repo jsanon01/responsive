@@ -1,2 +1,2 @@
 # responsive
-demo
+Demo of a responsive website...
